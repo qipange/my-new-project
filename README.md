@@ -25,6 +25,22 @@ my-new-project/
 2. 安装依赖：`npm install`
 3. 运行项目：`npm start`
 
+### 运行示例
+
+```bash
+npm start
+```
+
+输出：
+```
+=== My New Project ===
+Hello, World! Welcome to the project!
+Math operations:
+5 + 3 = 8
+5 * 3 = 15
+Project initialized successfully!
+```
+
 ## 贡献
 
 欢迎提交Issue和Pull Request！
